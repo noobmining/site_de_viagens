@@ -19,6 +19,9 @@
 body{
     background-color: rgb(238, 238, 238);
 }
+input{
+    background-color: white;
+}
 
 /*Barra superior*/
 .logo-e-pesquisa{
@@ -489,6 +492,7 @@ main{
         width: 100%;
     }
     .contact{
+        padding: 0px 10px;
         width: 100%;
     }
 }
